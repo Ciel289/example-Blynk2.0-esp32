@@ -1,4 +1,4 @@
-
+//  This code was tested with ESP32 and did not have a problems
 //  Form Blynk 2.0
 #define BLYNK_TEMPLATE_ID "---"
 #define BLYNK_DEVICE_NAME "---"
